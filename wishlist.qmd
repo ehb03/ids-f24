@@ -1,0 +1,12 @@
+---
+title: "Contributing to Classnotes"
+format: html
+output:
+  html_document:
+    css: styles.css
+---
+
++ Borowski, Emily
+ - Gain a greater understanding of Quarto and GitHub
+ - Become more comfortable with my coding abilities
+ - Acquire a deeper understanding of data science
